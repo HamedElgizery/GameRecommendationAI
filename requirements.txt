@@ -1,0 +1,3 @@
+igdb-api-v4
+pymongo
+tqdm
